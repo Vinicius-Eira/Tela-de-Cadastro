@@ -12,6 +12,7 @@ Funcionalidades:
 👀 Visualização de todos os usuários cadastrados na aplicação.
 💾 Armazenamento local dos dados em um arquivo de texto.
 
+<br>
 
 Tecnologias Utilizadas:
 
@@ -19,6 +20,7 @@ Java: Linguagem principal utilizada no desenvolvimento.
 Java Swing: Para a criação da interface gráfica.
 JDK: Java Development Kit para compilar e rodar o código.
 
+<br>
 
 COMO RODAR O PROJETO:
 
