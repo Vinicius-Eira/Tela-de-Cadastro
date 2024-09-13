@@ -28,7 +28,7 @@ COMO RODAR O PROJETO:
 git clone https://github.com/seu-usuario/CadastroApp-Swing.git
 
 --Compile e execute o projeto--
-javac CadastroApp_swing/Main.java
+javac CadastroApp_swing/Main.java | 
 java CadastroApp_swing.Main
 
 <br>
